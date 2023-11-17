@@ -15,9 +15,10 @@ I'm a Data Scientist with a passion for exploring and analyzing data. Here's a b
 - **Database:** SQL, MongoDB
 - **Tools:** Jupyter Notebook, Git, GitHub
 
+
 ## GitHub Stats 📊
 
-![GitHub Stats](https://img.shields.io/github/followers/zainramzan?label=Follow&style=social)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zain-ramzan&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
 
 ## Connect with Me 📫
 
