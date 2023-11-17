@@ -15,6 +15,15 @@ I'm a Data Scientist with a passion for exploring and analyzing data. Here's a b
 - **Database:** SQL, MongoDB
 - **Tools:** Jupyter Notebook, Git, GitHub
 
+## GitHub Stats 📊
+
+![GitHub Stats](https://img.shields.io/github/followers/zainramzan?label=Follow&style=social)
+
+## Connect with Me 📫
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zainramzan/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/zainramzangorsi)
+
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 😄
 
 👨‍💻 Happy coding!
