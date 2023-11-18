@@ -21,7 +21,7 @@ I'm a Data Scientist with a passion for exploring and analyzing data. Here's a b
 [![GitHub Streak](https://streak-stats.demolab.com?user=zain-ramzan&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
 
 ## Connect with Me 📫
-
+![](https://komarev.com/ghpvc/?username=zain-ramzan&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zainramzan/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/zainramzangorsi)
 
