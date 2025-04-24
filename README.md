@@ -3,7 +3,7 @@
 I'm a Data Scientist with a passion for exploring and analyzing data. Here's a bit about me:
 
 - 🌱 I’m constantly learning and exploring new technologies and tools in the field of data science.
-- 👯 I’m looking to collaborate on data science projects and open-source initiatives.
+- 👯 I’m happy to collaborate on data science projects and open-source initiatives.
 
 ## Skills and Technologies 🚀
 
